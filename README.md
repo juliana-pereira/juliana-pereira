@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @juliana-pereira
+- 👋 Olá, eu sou @juliana-pereira
