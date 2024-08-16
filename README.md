@@ -8,4 +8,12 @@
      <img   height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliana-pereira&layout=compact&langs_count=168&theme=radical"/>
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ArthurSaldanha01}/count.svg" /></p> 
+<br>
+</div>
+
+<div align="center">
    <a href="https://instagram.com/juuliana_ps" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
